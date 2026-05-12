@@ -15,7 +15,7 @@ import { useState, useEffect, useRef } from "react";
 // ============================================================
 const CONFIG = {
   GOOGLE_SHEETS_API_URL: "https://script.google.com/macros/s/AKfycbyc1qID5geDXRJEZeFmI14Kf18vudtW6PGx2nTZDMBhqyDTI1cR98CTBii1F7sdgHiQJw/exec",
-  ARTICLES_CSV_URL: "",
+  ARTICLES_CSV_URL: "https://docs.google.com/spreadsheets/d/e/2PACX-1vSiuIXn5WDm8bSD6T4p4Q8cjh8ZJcnodQIJz9Kwx7YnIddzTFmui-tTmGZZmzuvZ9H7trkrH8MXohrg/pub?output=csv",
   BLOCK_SIZE: 10,
   PORTAL_SEARCH_URL: "https://www.brufausanitarios.com.ar/search/?q=",
 };
